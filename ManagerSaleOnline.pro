@@ -26,5 +26,3 @@ DISTFILES += \
     Resource/Style/Generic/style.scss \
     Resource/Style/x100/style.scss
 
-
-#kha
